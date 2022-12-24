@@ -15,7 +15,7 @@ I hope you find this tutorial helpful! If you have any questions or want to see 
 
 Resources:
 
-Youtube Channel: https://www.youtube.com/@SmartContractHacker101
-Ethernaut Challenge: https://ethernaut.openzeppelin.com/
-Brownie documentation: https://eth-brownie.readthedocs.io/en/stable/
-Infura website: https://www.infura.io/
+- Youtube Channel: https://www.youtube.com/@SmartContractHacker101
+- Ethernaut Challenge: https://ethernaut.openzeppelin.com/
+- Brownie documentation: https://eth-brownie.readthedocs.io/en/stable/
+- Infura website: https://www.infura.io/
