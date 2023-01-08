@@ -1,0 +1,9 @@
+dependencies:
+  - OpenZeppelin/openzeppelin-contracts@3.0.0
+compiler:
+  solc:
+    remappings:
+      - '@openzeppelin=OpenZeppelin/openzeppelin-contracts@3.0.0'
+dotenv: .env #tells browine to get environment variable via .env file
+wallets:
+  from_key: ${PRIVATE_KEY} #get environment variable $PRIVATE_KEY from .env fils
