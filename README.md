@@ -14,6 +14,8 @@ Here's what we'll cover:
 I hope you find this tutorial helpful! If you have any questions or want to see more content like this, be sure to leave a comment and subscribe to my channel.
 
 Resources:
+
+- Youtube Channel: https://www.youtube.com/@SmartContractHacker101
 - Ethernaut Challenge: https://ethernaut.openzeppelin.com/
 - Brownie documentation: https://eth-brownie.readthedocs.io/en/stable/
 - Infura website: https://www.infura.io/
